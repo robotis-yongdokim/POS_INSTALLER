@@ -16,10 +16,10 @@
                 ]]>
             </description>
             <pubDate>Tue, 14 Apr 2026 12:00:00 +0900</pubDate>
-            <enclosure url="https://github.com/robotis-yongdokim/POS_INSTALLER/releases/download/1.0.46/GAEMI-Setup-1.0.46-Patch.exe"
-                       sparkle:version="1.0.46"
+            <enclosure url="https://github.com/robotis-yongdokim/POS_INSTALLER/releases/download/1.0.47/GAEMI-Setup-1.0.47-Patch.exe"
+                       sparkle:version="1.0.47"
                        sparkle:os="windows"
-                       length="4362519"
+                       length="4986938"
                        type="application/vnd.microsoft.portable-executable" />
         </item>
     </channel>
