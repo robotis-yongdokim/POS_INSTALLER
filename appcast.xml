@@ -19,7 +19,7 @@
             <enclosure url="https://github.com/robotis-yongdokim/POS_INSTALLER/releases/download/1.0.45/GAEMI-Setup-1.0.46-Patch.exe"
                        sparkle:version="1.0.46"
                        sparkle:os="windows"
-                       length="4362231"
+                       length="4362519"
                        type="application/vnd.microsoft.portable-executable" />
         </item>
     </channel>
