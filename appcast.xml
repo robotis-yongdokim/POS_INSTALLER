@@ -7,7 +7,7 @@
         <language>ko</language>
 
         <item>
-            <title>Version 1.0.58</title>
+            <title>Version 1.0.63</title>
             <description>
                 <![CDATA[
                     ● 최초 릴리스
@@ -16,10 +16,10 @@
                 ]]>
             </description>
             <pubDate>Tue, 14 Apr 2026 12:00:00 +0900</pubDate>
-            <enclosure url="https://github.com/robotis-yongdokim/POS_INSTALLER/releases/download/1.0.59/GAEMI-Setup-1.0.59-Patch.exe"
-                       sparkle:version="1.0.59"
+            <enclosure url="https://github.com/robotis-yongdokim/POS_INSTALLER/releases/download/1.0.63/GAEMI-Setup-1.0.63-Patch.exe"
+                       sparkle:version="1.0.63"
                        sparkle:os="windows"
-                       length="4993472"
+                       length="4993417"
                        type="application/vnd.microsoft.portable-executable" />
         </item>
     </channel>
